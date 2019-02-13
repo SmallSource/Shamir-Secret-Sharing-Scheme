@@ -1,2 +1,3 @@
 # Shamir-Secret-Sharing-Scheme
-Shamir Secret Sharing Scheme Implementation
+
+A C++ implementation for the Shamir Secret Sharing Scheme.
